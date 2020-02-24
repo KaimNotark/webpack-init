@@ -2,7 +2,7 @@
 ***
 ## How to run.
 >$ yarn install
-<br>
+
 >$ yarn dev
 ***
 ## About the project.
